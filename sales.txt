@@ -1,0 +1,48 @@
+
+=========== RECEIPT ===========
+Product : Cheetos
+Quantity: 1
+Total   : PHP 20.00
+Cash    : PHP 325.00
+Change  : PHP 305.00
+================================
+
+=========== RECEIPT ===========
+Product : Coke
+Quantity: 1
+Total   : PHP 25.00
+Cash    : PHP 500.00
+Change  : PHP 475.00
+================================
+
+=========== RECEIPT ===========
+Product : Cheetos
+Quantity: 2
+Total   : PHP 40.00
+Cash    : PHP 475.00
+Change  : PHP 435.00
+================================
+
+=========== RECEIPT ===========
+Product : Sprite
+Quantity: 2
+Total   : PHP 50.00
+Cash    : PHP 500.00
+Change  : PHP 450.00
+================================
+
+=========== RECEIPT ===========
+Product : Sprite
+Quantity: 1
+Total   : PHP 25.00
+Cash    : PHP 450.00
+Change  : PHP 425.00
+================================
+
+=========== RECEIPT ===========
+Product : Mountain Dew
+Quantity: 3
+Total   : PHP 75.00
+Cash    : PHP 500.00
+Change  : PHP 425.00
+================================
